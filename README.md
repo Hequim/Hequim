@@ -11,7 +11,7 @@
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>A propos de moi</b>
 Je m'appelle Hequim, je suis étudiant et passionné par le développement de logiciels. Constamment en train d'explorer de nouvelles technologies et de relever des défis, je m'épanouis dans le monde dynamique de la technologie. En mettant l'accent sur la collaboration et le soutien à la communauté, je m'efforce d'inspirer les autres à repousser leurs limites et à rechercher la grandeur. Créons ensemble des solutions innovantes !
 
 <br>
@@ -19,7 +19,7 @@ Je m'appelle Hequim, je suis étudiant et passionné par le développement de lo
   
 
 
- -  🔭 I'm currently working on nothing 😉
+ -  🔭 Je travaille actuellement sur rien 😉
 
 - 👯 Je suis impatient de collaborer avec des projets minecraft java..
 
