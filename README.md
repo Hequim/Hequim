@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Alamin <img src=
+<h1 align="center">Hi!,  I'm Hequim <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
@@ -12,21 +12,21 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+Je m'appelle Hequim, je suis étudiant et passionné par le développement de logiciels. Constamment en train d'explorer de nouvelles technologies et de relever des défis, je m'épanouis dans le monde dynamique de la technologie. En mettant l'accent sur la collaboration et le soutien à la communauté, je m'efforce d'inspirer les autres à repousser leurs limites et à rechercher la grandeur. Créons ensemble des solutions innovantes !
 
 <br>
 
   
 
 
- -  🔭 I’m currently working on something cool 😉
+ -  🔭 I'm currently working on nothing 😉
 
-- 👯 I’m looking forward to collaborate on python projects.
+- 👯 Je suis impatient de collaborer avec des projets minecraft java..
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌱 Apprentissage en continue de java
 
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 💬 N'hésitez pas à me poser des questions, je suis heureux de vous aider, à condition que la balle soit dans mon camp !😉
 
 
 <br>
